@@ -11,15 +11,12 @@ p {
 header {
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 article {
   background-color: #edecec;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-content: center;
   padding: 2.5%;
   border-radius: 30px;
   margin: 4%;
